@@ -1,6 +1,6 @@
-package chap01_04Enum.basic;
+package chap01_04enum.advance;
 
-public class BasicEnumExampleMain {
+public class AdvancedEnumExampleMain {
     public static void main(String[] args) {
         CalculateCommand calculateCommand = new CalculateCommand(
                 CalculateType.ADD, // EnumType : ADD로 설정

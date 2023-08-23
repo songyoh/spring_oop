@@ -1,4 +1,4 @@
-package chap01_04Enum.basic;
+package chap01_04enum.basic;
 
 // 덧셈, 뺄셈, 곱셈, 나눗셈 중 뭔가를 수행하라는 명령에 대한 정보를 묶어서 저장중인 클래스
 public class CalculateCommand {

@@ -1,4 +1,4 @@
-package chap01_04Enum.basic;
+package chap01_04enum.basic;
 
 public class Client {
     public int someMethod(CalculateCommand calculateCommand) {
@@ -18,5 +18,5 @@ public class Client {
             result = num1 / num2;
         }
         return result;
-    }
-}
+    } //사칙연산 중 어떤 숫자들로 기능을 써서 리턴해라.
+} // 클라이언트가 기능 내부를 모두 알게된 상황
