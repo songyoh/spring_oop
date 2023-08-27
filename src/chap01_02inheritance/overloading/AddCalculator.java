@@ -19,6 +19,11 @@ public class AddCalculator {
         return num1 + num2;
     }
 
+    public void test() {
+        add(30, 50); // 파라미터에 int 타입이 대입
+        add(1L, 2L); // 파라미터에 long 타입을 대입했기 때문에 add(long num1, long num2)가 실행될 것이다.
+    }
+
     public double add(double num1, double num2) {
         return num1 + num2;
     }
