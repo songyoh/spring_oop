@@ -1,4 +1,4 @@
-package chap04_06proxy;
+package chap04_06proxy.test;
 
 import java.util.HashMap;
 
